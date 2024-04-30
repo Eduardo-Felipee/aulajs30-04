@@ -1,0 +1,66 @@
+
+// var vetor = [];
+// for (var i = 0; i < 200; i++) {
+//     vetor.push(Math.floor(Math.random() * 1000) + 1);
+// }
+
+// var maior = vetor[0]; 
+
+// for (var i = 1; i < vetor.length; i++) {
+//     if (vetor[i] > maior) {
+//         maior = vetor[i];
+//     }
+// }
+
+// console.log("O maior elemento no vetor é: " + maior);
+
+
+// var vetor = [];
+// for (var i = 0; i < 50; i++) {
+//     vetor.push(Math.floor(Math.random() * 500) + 1);
+//     console.log(vetor[i])
+// }
+
+// var soma = 0;
+// for (var i = 0; i < vetor.length; i++) {
+//     soma += vetor[i];
+// }
+
+// var media = soma / vetor.length;
+
+// console.log("A média dos valores armazenados no vetor é: " + media);
+
+// var n1 = 1;
+// if (n1 > 0){
+//     var n1 = 3;
+//     var n2 = 2;
+// }
+// console.log(n1+ "+" + n2 + "=" +(n1+n2));
+
+// var n1 = 1;
+// if (n1 < 0){
+//     var n1 = 3;
+//     var n2 = 2;
+// }
+// console.log(n1+ "+" + n2 + "=" +(n1+n2));
+
+// nome = "FICR";
+// console.log(nome);
+// var nome = "UBEC";
+
+// let n1 = 1;
+// if (n1 > 0){
+//     let n1 = 3;
+//     let n2 = 2;
+// }
+// console.log(n1+ "+" + n2 + "=" +(n1+n2));
+
+// let n1 = 1;
+// let n2 = 2;
+// n1 = 4;
+// console.log(n1+ "+" + n2 + "=" +(n1+n2));
+
+// const n1 = 1;
+// let n2 = 2;
+// n1 = 4;
+// console.log(n1+ "+" + n2 + "=" + (n1+n2));
